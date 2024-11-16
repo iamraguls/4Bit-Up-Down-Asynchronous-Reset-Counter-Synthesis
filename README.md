@@ -1,5 +1,3 @@
-![Screenshot 2024-11-16 153756](https://github.com/user-attachments/assets/c3173cec-1cb7-44b0-85dc-935af8d5eb44)# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
-
 ## Aim:
 
 Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and analyse reports, Timing, area and Power.
